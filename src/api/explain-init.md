@@ -1,0 +1,1 @@
+About the `__init__.py` files. In many cases, these files are left empty to mark directories as Python packages. However, they can also contain code if needed. For this project, we'll assume the `__init__.py` files are empty.
